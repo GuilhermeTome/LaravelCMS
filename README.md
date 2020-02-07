@@ -27,6 +27,7 @@ O projeto no momento de finalização do curso o sistema apresenta as seguintes 
 - Mysql
 - Composer
 - Git(para instalar o projeto)
+- Conexão com a internet
 
 ### Como instalar o projeto no seu computador
 
@@ -37,10 +38,11 @@ git clone https://github.com/GuilhermeTome/LaravelCMS.git
 ```
 cd LaravelCMS
 ```
-- Abrir o arquivo "database.sql" e instalar o banco de dados
 ```
 php artisan serve
 ```
+
+- Após essas etapas abrir o arquivo "database.sql" e instalar o banco de dados, basta recarregar a página no navegador e estará tudo funcionando
 
 ### Como utilizar o sistema
 
